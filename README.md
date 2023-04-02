@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yichenchong
 - 👀 I’m interested in opportunities in tech, finance, and engineering.
-- 🌱 I’m currently learning Joint Maths and Computing at Imperial College London, studying courses such as: Graphs and Algorithms, Logic and Reasoning, Computing Practical 1 (Haskell, Kotlin, Java, and C), Calculus and its Applications, Analysis 1, and Linear Algebra and Groups.
+- 🌱 I’m currently learning Joint Maths and Computing at Imperial College London, studying courses such as: Operating Systems, Compilers, Computing Practical 2, Software Engineering Design, Probability and Statistics, Analysis 2, Numerical Analysis, and Statistical Modelling.
 - 📫 How to reach me: (email) yichenchong@yahoo.com / (school email) yi.chong21@imperial.ac.uk / (linkedin) https://www.linkedin.com/in/yc-chong/
 
 <!---
