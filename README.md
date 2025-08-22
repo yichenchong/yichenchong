@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yichenchong
-- 👀 I’m interested in opportunities in tech, finance, and engineering.
-- 🌱 I’m currently learning Joint Maths and Computing at Imperial College London, studying courses such as: Operating Systems, Compilers, Computing Practical 2, Software Engineering Design, Probability and Statistics, Analysis 2, Numerical Analysis, and Statistical Modelling.
+- 👀 I’m interested in opportunities in finance, tech, and engineering.
+- 🌱 I recently completed a MEng Joint Maths and Computing at Imperial College London
+- 💼 I am working as a Quantitative Researcher at Optiver, a global proprietary trading firm and market maker.
 - 📫 How to reach me: (email) yichenchong@yahoo.com / (school email) yi.chong21@imperial.ac.uk / (linkedin) https://www.linkedin.com/in/yc-chong/
 
 <!---
